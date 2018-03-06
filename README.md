@@ -1,6 +1,5 @@
 # Assignment1CSCI2020
 
-Keldav - Today at 8:14 PM
 Secondary Instructions
 Assignment 1
 
